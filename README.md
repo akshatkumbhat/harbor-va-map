@@ -2,7 +2,7 @@
 
 A public-data prototype mapping Virginia's precision manufacturing and industrial services clusters — built to understand where permanent-capital acquisition opportunities may exist across the state.
 
-**Live app →** *(link after deployment)*
+**Live app →** https://harbor-va-map-lyeczntkij7ipjraqtpf8j.streamlit.app/
 
 ---
 
