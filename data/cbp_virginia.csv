@@ -1,0 +1,112 @@
+FIPSTATE,FIPSCTY,NAICS,EMP_NF,EMP,QP1_NF,QP1,AP_NF,PAYANN,ESTAB,N<5,N5_9,N10_19,N20_49,N50_99,N100_249,N250_499,N500_999,N1000,N1000_1,N1000_2,N1000_3,N1000_4,NAICS4,harbor_category,fips,county_name
+51,3,5417//,G,1093,G,25799,H,116385,28,9,N,5,6,N,4,N,N,N,N,N,N,N,5417,R&D / Technical Services,51003,Albemarle County
+51,3,54171/,G,1068,G,25391,H,114698,27,9,N,5,5,N,4,N,N,N,N,N,N,N,5417,R&D / Technical Services,51003,Albemarle County
+51,3,541713,J,224,J,4859,J,21875,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51003,Albemarle County
+51,3,541714,H,141,H,3714,H,13947,5,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51003,Albemarle County
+51,3,541715,G,703,G,16818,G,78876,18,5,N,3,4,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51003,Albemarle County
+51,13,5417//,G,3498,G,103362,G,438720,67,24,5,15,9,6,4,3,N,N,N,N,N,N,5417,R&D / Technical Services,51013,Arlington County
+51,13,54171/,G,1345,G,42783,G,194148,53,19,5,14,6,6,3,N,N,N,N,N,N,N,5417,R&D / Technical Services,51013,Arlington County
+51,13,541713,H,391,H,11295,H,53602,12,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51013,Arlington County
+51,13,541715,G,943,G,31303,G,139734,40,16,3,11,4,4,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51013,Arlington County
+51,13,54172/,G,2153,G,60579,G,244572,14,5,N,N,3,N,N,3,N,N,N,N,N,N,5417,R&D / Technical Services,51013,Arlington County
+51,13,541720,G,2153,G,60579,G,244572,14,5,N,N,3,N,N,3,N,N,N,N,N,N,5417,R&D / Technical Services,51013,Arlington County
+51,41,5417//,H,67,H,805,H,4337,14,12,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51041,Chesterfield County
+51,41,54171/,H,67,H,805,H,4266,13,11,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51041,Chesterfield County
+51,41,541714,J,49,J,351,J,1996,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51041,Chesterfield County
+51,41,541715,J,18,G,454,G,2270,10,9,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51041,Chesterfield County
+51,59,5417//,G,17619,G,495729,G,2488124,169,75,23,19,19,13,10,3,5,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,59,54171/,G,17445,G,492925,G,2475607,142,57,19,16,17,13,10,3,5,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,59,541713,H,6572,H,168039,J,930059,30,11,3,5,N,4,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,59,541714,J,328,J,5890,J,25718,10,5,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,59,541715,H,10545,H,318996,H,1519830,102,41,14,11,15,8,7,N,4,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,59,54172/,H,174,G,2804,G,12517,27,18,4,3,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,59,541720,H,174,G,2804,G,12517,27,18,4,3,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51059,Fairfax County
+51,61,5417//,J,23,J,715,J,2791,6,3,3,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51061,Fauquier County
+51,61,54171/,J,23,J,715,J,2791,6,3,3,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51061,Fauquier County
+51,61,541715,G,11,J,506,J,1974,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51061,Fauquier County
+51,85,5417//,J,37,H,583,H,2464,6,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51085,Hanover County
+51,85,54171/,J,37,H,583,H,2464,6,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51085,Hanover County
+51,85,541714,J,10,H,96,H,559,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51085,Hanover County
+51,87,5417//,J,1652,J,33108,J,159665,15,7,N,3,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51087,Henrico County
+51,87,54171/,J,1643,J,32969,J,159047,13,6,N,3,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51087,Henrico County
+51,87,541715,J,1593,J,31267,J,152390,11,6,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51087,Henrico County
+51,95,5417//,J,18,J,146,J,672,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51095,James City County
+51,95,54171/,J,5,J,29,J,200,3,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51095,James City County
+51,99,5417//,J,38,J,1022,J,4920,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51099,King George County
+51,99,54171/,J,38,J,1022,J,4920,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51099,King George County
+51,99,541715,J,38,J,1022,J,4920,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51099,King George County
+51,107,5417//,H,1344,H,38380,H,170577,37,18,N,4,7,4,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51107,Loudoun County
+51,107,54171/,H,1322,H,37426,H,165608,35,17,N,3,7,4,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51107,Loudoun County
+51,107,541713,G,17,J,479,J,2539,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51107,Loudoun County
+51,107,541714,J,521,J,11454,J,51349,6,5,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51107,Loudoun County
+51,107,541715,G,784,G,25493,G,111720,26,11,N,N,7,4,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51107,Loudoun County
+51,121,5417//,G,140,H,4976,G,21351,28,17,7,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51121,Montgomery County
+51,121,54171/,G,139,H,4937,G,21197,27,16,7,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51121,Montgomery County
+51,121,541714,J,16,H,396,H,1255,6,5,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51121,Montgomery County
+51,121,541715,G,119,H,4492,G,19640,19,9,6,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51121,Montgomery County
+51,153,5417//,H,735,H,17351,H,72627,18,11,N,N,3,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51153,Prince William County
+51,153,54171/,H,734,H,17341,H,72525,16,9,N,N,3,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51153,Prince William County
+51,153,541713,J,76,J,2119,J,8027,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51153,Prince William County
+51,153,541714,J,36,H,668,H,2812,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51153,Prince William County
+51,153,541715,J,622,H,14554,H,61686,8,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51153,Prince William County
+51,177,5417//,H,48,G,1091,G,3929,6,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51177,Spotsylvania County
+51,177,54171/,G,30,G,942,G,3558,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51177,Spotsylvania County
+51,177,541715,G,30,G,942,G,3558,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51177,Spotsylvania County
+51,179,5417//,G,163,G,4698,G,20420,6,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51179,Stafford County
+51,179,54171/,G,161,G,4647,G,20328,5,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51179,Stafford County
+51,179,541715,H,104,H,3212,H,14118,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51179,Stafford County
+51,199,5417//,J,13,G,220,G,813,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51199,York County
+51,199,54171/,J,13,G,220,G,813,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51199,York County
+51,199,541715,J,11,G,210,G,761,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51199,York County
+51,510,5417//,H,1438,H,39567,H,175861,25,11,3,4,N,3,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51510,Alexandria city
+51,510,54171/,J,1165,J,32545,H,146984,17,7,N,4,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51510,Alexandria city
+51,510,541715,J,1146,J,32093,H,144825,14,5,N,3,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51510,Alexandria city
+51,510,54172/,G,273,H,7022,H,28877,8,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51510,Alexandria city
+51,510,541720,G,273,H,7022,H,28877,8,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51510,Alexandria city
+51,540,5417//,G,274,G,9394,G,35177,28,15,5,5,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51540,Charlottesville city
+51,540,54171/,G,256,G,8986,G,33332,25,13,5,4,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51540,Charlottesville city
+51,540,541714,H,91,H,5190,H,18308,11,5,3,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51540,Charlottesville city
+51,540,541715,G,153,G,3566,G,14031,13,8,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51540,Charlottesville city
+51,540,54172/,J,18,H,408,H,1845,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51540,Charlottesville city
+51,540,541720,J,18,H,408,H,1845,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51540,Charlottesville city
+51,550,5417//,J,55,J,920,J,4453,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51550,Chesapeake city
+51,550,54171/,J,55,J,920,J,4453,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51550,Chesapeake city
+51,590,5417//,G,60,G,1556,G,6911,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51590,Danville city
+51,590,54171/,G,60,G,1556,G,6911,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51590,Danville city
+51,600,5417//,H,842,H,56408,H,157341,8,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51600,Fairfax city
+51,600,54171/,H,840,H,56344,H,157080,6,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51600,Fairfax city
+51,600,541715,H,838,H,56319,H,157031,5,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51600,Fairfax city
+51,630,5417//,H,87,H,1643,H,6859,5,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51630,Fredericksburg city
+51,630,54171/,H,40,H,1283,H,5006,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51630,Fredericksburg city
+51,630,541715,H,40,H,1283,H,4983,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51630,Fredericksburg city
+51,650,5417//,H,1352,H,30399,H,127088,25,6,5,3,3,5,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51650,Hampton city
+51,650,54171/,H,1352,H,30399,H,127088,25,6,5,3,3,5,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51650,Hampton city
+51,650,541713,J,220,J,4801,J,18716,7,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51650,Hampton city
+51,650,541715,H,1125,H,25551,H,107634,17,3,4,N,3,4,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51650,Hampton city
+51,683,5417//,J,49,H,1222,H,6098,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51683,Manassas city
+51,683,54171/,J,49,H,1222,H,6098,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51683,Manassas city
+51,683,541715,H,39,G,1030,G,5364,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51683,Manassas city
+51,700,5417//,J,873,J,18551,J,76643,11,5,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51700,Newport News city
+51,700,54171/,J,872,J,18533,J,76573,10,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51700,Newport News city
+51,700,541715,J,38,H,531,H,2134,8,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51700,Newport News city
+51,710,5417//,J,476,H,4557,H,23521,12,7,3,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51710,Norfolk city
+51,710,54171/,J,470,H,4489,J,23251,11,7,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51710,Norfolk city
+51,710,541715,J,37,H,798,H,3463,8,5,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51710,Norfolk city
+51,760,5417//,G,783,G,20499,G,88921,22,12,N,3,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51760,Richmond city
+51,760,54171/,G,754,G,19989,G,87026,19,11,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51760,Richmond city
+51,760,541714,J,13,J,383,H,2021,5,4,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51760,Richmond city
+51,760,541715,G,735,G,19505,H,84593,13,7,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51760,Richmond city
+51,760,54172/,G,29,G,510,G,1895,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51760,Richmond city
+51,760,541720,G,29,G,510,G,1895,3,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51760,Richmond city
+51,770,5417//,G,1,G,6,J,54,3,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51770,Roanoke city
+51,800,5417//,J,13,H,290,H,1309,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51800,Suffolk city
+51,800,54171/,J,13,H,290,H,1309,4,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51800,Suffolk city
+51,810,5417//,J,285,H,5588,H,25783,20,9,3,N,5,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51810,Virginia Beach city
+51,810,54171/,J,202,H,4906,H,22517,16,7,3,N,5,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51810,Virginia Beach city
+51,810,541715,J,160,J,3679,H,17930,13,6,N,N,4,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51810,Virginia Beach city
+51,810,54172/,J,83,J,682,J,3266,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51810,Virginia Beach city
+51,810,541720,J,83,J,682,J,3266,4,N,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51810,Virginia Beach city
+51,999,5417//,G,477,J,31104,H,71782,13,7,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51999,51999
+51,999,54171/,H,333,J,28368,J,56974,12,7,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51999,51999
+51,999,541713,G,207,H,8899,H,27318,5,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51999,51999
+51,999,541715,H,99,H,2327,H,7579,5,3,N,N,N,N,N,N,N,N,N,N,N,N,5417,R&D / Technical Services,51999,51999
